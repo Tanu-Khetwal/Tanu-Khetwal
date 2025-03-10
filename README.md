@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tanu-Khetwal
-- 👀 I’m interested in coding and ai
+- 👀 I’m interested in coding and ai and dbms
 - 🌱 I’m currently learning coding
 - 📫 How to reach me here
 - 😄 Pronouns: she/her
