@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanu-Khetwal
-- 👀 I’m interested in coding and ai and dbms
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in data science and aiml
+- 🌱 I’m currently learning BTech CS
 - 📫 How to reach me here
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: The first ever programming language (per se) was called fortan, and it was created in the 50's
