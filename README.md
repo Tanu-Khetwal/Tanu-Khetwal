@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Tanu-Khetwal
-- 👀 I’m interested in data science and aiml
-- 🌱 I’m currently learning BTech CS
-- 📫 How to reach me here
-- 😄 Pronouns: she/her
+- 👀 I’m interested in data science and AIML
+- 🌱 I’m currently pursuing BTech CS
+- 📫 You can reach me in linkedin - Tanu_Khetwal
 - ⚡ Fun fact: Python is named after the comedy group *Monty Python's Flying Circus*, not the snake! 🐍 Try typing `import this` in a Python shell to see The Zen of Python.
 
 <!---
