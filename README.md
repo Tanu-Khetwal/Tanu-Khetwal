@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BTech CS
 - 📫 How to reach me here
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: The first ever programming language (per se) was called fortan, and it was created in the 50's
+- ⚡ Fun fact: Type "import this" in any Python shell and it prints “The Zen of Python”, a set of guiding principles for writing Python code.
 
 <!---
 Tanu-Khetwal/Tanu-Khetwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
