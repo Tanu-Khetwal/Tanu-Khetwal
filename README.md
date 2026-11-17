@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BTech CS
 - 📫 How to reach me here
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Type "import this" in any Python shell and it prints “The Zen of Python”, a set of guiding principles for writing Python code.
+- ⚡ Fun fact: Python is named after the comedy group *Monty Python's Flying Circus*, not the snake! 🐍 Try typing `import this` in a Python shell to see The Zen of Python.
 
 <!---
 Tanu-Khetwal/Tanu-Khetwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
